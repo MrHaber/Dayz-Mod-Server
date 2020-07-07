@@ -1,32 +1,4 @@
 /*
-[AlPmaker MAPH+ESP+TP Script] 
-09:01 26/09/12
-v 6.69
-
-[Benefits]:
-
-- configurable through menu opened by key combination (set "musekeys" to "true")
-- multitreading - each marker lives it's own "life" until off
-- show tents, helicrashes, players, vehicles, dead bodies, nearby animals and zombies
-- nice icons 
-- configurable icons colors
-- configurable preload options
-- scalable icons
-- built-in esp w player tags 
-- built-in teleport 
-- icons support direction show (but it is some kind bugged due high ping values)
-- when players are in vehicle their names are shown in column like:
-	- U1-H1
-	  > PlayerName1
-	  > PlayerName2
-	  > PlayerName3
-	  > PlayerName4
-- vehicles has real ingame names on map
-- autoadding map/GPS if selected and not in inventory
-- added alternative TP (credits to monky) allow player (w/o vehicle) TP on buildings
-- added "vilayer" bypass
-- etc :)
- 
 [Defects]:
 - can freeze while scanning objects on first execution
 
