@@ -1,8 +1,6 @@
 
 /*
-	Make Sure to rename the file config_dist.sqf to config.sqf.
-	
-	This has been done to make sure server owner never have to keep changeing settings every patch
+	Create bukups after commit changes
 */
 
 call compile preprocessFileLineNumbers "config.sqf";
