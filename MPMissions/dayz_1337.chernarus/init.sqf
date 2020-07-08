@@ -64,18 +64,20 @@ if (!isDedicated) then {
 		execVM "\z\addons\dayz_code\system\mission\chernarus\hideGlitchObjects.sqf";
 	};
 	
-	//Enables Plant lib fixes
+	//Фиксы для античита(если есть infistar.de)
 	execVM "\z\addons\dayz_code\system\antihack.sqf";
 	
 	if (dayz_townGenerator) then { execVM "\z\addons\dayz_code\compile\client_plantSpawner.sqf"; };
 	execFSM "custom\player_monitor.fsm";
+	// Инициализация DZGM - менеджер групп + перевод
 	execVM "dzgm\init.sqf";
 	waitUntil {scriptDone progress_monitor};
 	cutText ["","BLACK IN", 3];
 	3 fadeSound 1;
 	3 fadeMusic 1;
 	endLoadingScreen;
-	
+	// Дебаг монитор(новый дисайн)
 	_nill = execvm "custom\debug_monitor\debug_monitor.sqf";
+	// Элементы ESP для администрации, смотрите внутри esp.sqf
 	_sic = execvm "esp.sqf";
 };
