@@ -1,6 +1,7 @@
 # Dayz-Mod-Server build (1.9.0 Vanilla) 
 
-## Documentation avable soon 20.07.2020
+## Documentation avable soon 30.07.2020
+Documentation extracts into file
 ------------------------------
 Licence:
 --------------------------
