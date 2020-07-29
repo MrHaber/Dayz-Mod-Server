@@ -1,4 +1,7 @@
 **Dayz-Mod-Server build (1.9.0 Vanilla)**
+![Language SQL](https://img.shields.io/badge/language-sql-yellow.svg)
+![Language SQF](https://img.shields.io/badge/language-sqf-blue.svg)
+![Language C++](https://img.shields.io/badge/language-c++-red.svg)
 ================================
 Dayz-Mod 1.9.0 AlexMod Edition - это сборка dayzmod сервера, которая тестировалась, в течении 6 месяцев на реальном проекте AlexMod и серверах Vanilla.
 
