@@ -1,4 +1,4 @@
-**Dayz-Mod-Server build (1.9.0 Vanilla)**
+**Dayz-Mod-Server build (1.9.0 DayzMod Vanilla)**
 
 ![Language SQL](https://img.shields.io/badge/language-sql-yellow.svg)
 ![Language SQF](https://img.shields.io/badge/language-sqf-blue.svg)
