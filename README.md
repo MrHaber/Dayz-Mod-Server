@@ -4,6 +4,7 @@
 ![Language SQF](https://img.shields.io/badge/language-sqf-blue.svg)
 ![Language C++](https://img.shields.io/badge/language-c++-red.svg)
 ![GitHub issues](https://img.shields.io/github/issues/MrHaber/GeoIP-API.svg)
+![Stars](https://img.shields.io/github/stars/MrHaber/GeoIP-API?color=yellow)
 ===============================
 Dayz-Mod 1.9.0 AlexMod Edition - это сборка dayzmod сервера, которая тестировалась, в течении 6 месяцев на реальном проекте AlexMod и серверах Vanilla.
 
